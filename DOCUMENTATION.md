@@ -586,5 +586,5 @@ Returns icon name for given category.
 
 **Last Updated**: December 2024  
 **Version**: 1.0.0  
-**Maintainer**: ExpenseTracker Team
+**Maintainer**: Yordan Iturra
 

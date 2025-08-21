@@ -32,9 +32,9 @@ A modern, cross-platform expense tracking application built with React Native. T
 ## 🛠 Technologies Used
 
 ### **Core Framework**
-- **React Native 0.81.x** - Cross-platform mobile development
-- **React 18.x** - UI component library
-- **JavaScript ES6+** - Modern JavaScript features
+- **React Native 0.81.x** 
+- **React 18.x** 
+- **JavaScript ES6+** 
 
 ### **Navigation & UI**
 - **Custom Navigation System** - Lightweight tab-based navigation
@@ -63,11 +63,6 @@ ExpenseTracker/
 ├── 📱 android/                 # Android-specific files
 ├── 📱 ios/                     # iOS-specific files
 ├── 📦 src/
-│   ├── 🎨 components/          # Reusable UI components
-│   │   ├── CategorySelector.js
-│   │   ├── Charts.js
-│   │   ├── DateFilter.js
-│   │   └── ExpenseItem.js
 │   ├── 🔧 constants/           # App constants
 │   │   ├── categories.js       # Expense categories
 │   │   ├── colors.js          # Color palette
@@ -247,42 +242,15 @@ npm run test:coverage
 - ✅ **App Icons**: iOS app icon configuration
 
 ### Android Features
-- ✅ **SafeAreaView**: Status bar and navigation bar handling
-- ✅ **Vector Icons**: Properly linked vector icon fonts
-- ✅ **Native Date Picker**: Material Design date picker
+- ✅ **SafeAreaView**
+- ✅ **Vector Icons**
+- ✅ **Native Date Picker**
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Development Guidelines
-- Follow the existing code style
-- Add JSDoc comments for new functions
-- Test on both iOS and Android
-- Update documentation for new features
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
 - **React Native Community** for excellent open-source tools
 - **Vector Icons** for beautiful iconography
 - **AsyncStorage** team for reliable data persistence
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/ExpenseTracker/issues) section
-2. Create a new issue with detailed information
-3. Include screenshots and device information
-
----
 
 **Made with ❤️ using React Native**
