@@ -254,3 +254,31 @@ npm run test:coverage
 - **AsyncStorage** team for reliable data persistence
 
 **Made with ❤️ using React Native**
+
+## 📸 Screenshots (Android and iOS versions available)
+
+![Home Android](screenshots/HomeAndroid.png)
+
+![Home iPhone](screenshots/HomeiOS.png)
+
+![Stats Android](screenshots/StatsAndroid.png)
+
+![Stats iPhone](screenshots/StatsiOS.png)
+
+![Add Expense Android](screenshots/addExpenseAndroid.png)
+
+![Add Expenjse iPhone](screenshots/addExpenseiOS.png)
+
+![Add Income Android](screenshots/addIncomeAndroid.png)
+
+![Add Income iPhone](screenshots/addIncomeiOS.png)
+
+
+
+
+
+
+
+
+
+
